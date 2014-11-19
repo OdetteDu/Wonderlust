@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C7AB5633-E07B-45C8-A438-4EBBD23C7BED</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Wonder</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F298BDC820D875CBD526F42A4E69BBE805623AD0</key>
+		<string>https://github.com/OdetteDu/Wonderlust.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>app/Wonder.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F298BDC820D875CBD526F42A4E69BBE805623AD0</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/OdetteDu/Wonderlust.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F298BDC820D875CBD526F42A4E69BBE805623AD0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F298BDC820D875CBD526F42A4E69BBE805623AD0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Wonderlust</string>
+		</dict>
+	</array>
+</dict>
+</plist>
