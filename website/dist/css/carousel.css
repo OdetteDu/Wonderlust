@@ -49,6 +49,7 @@ body {
   left:30%;
   right:30%;
   color:#ffffff;
+  background: rgba(0,0,0,0.50);
 }
 
 /* Declare heights because of positioning of img element */
